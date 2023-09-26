@@ -1,6 +1,6 @@
 export interface Building {
-  id: number;
-  BuildingName: string;
-  BuildingDescription: string;
-  ImageURL: string;
+  id: string;
+  name: string;
+  content: string;
+  image: string;
 }
