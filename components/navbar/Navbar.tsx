@@ -9,7 +9,6 @@ import {
   MagnifyingGlassIcon,
   MicrophoneIcon,
 } from "@heroicons/react/24/solid";
-import Dashboard from "@/app/dashboard/Dashboard";
 
 const Navbar = () => {
   const [isExpanded, setIsExtended] = useState(false);
